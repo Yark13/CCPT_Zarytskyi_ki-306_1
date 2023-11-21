@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"CI306.Zarytskyi.Lab_5","l":"CounterFunctions"},{"p":"CI306.Zarytskyi.Lab_5","l":"ProgramDriver"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"CI306.Zarytskyi.Lab_6","l":"ShipHold"},{"p":"CI306.Zarytskyi.Lab_6","l":"ShipHoldDriver"}];updateSearchResults();

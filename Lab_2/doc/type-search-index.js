@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"CI306.Zarytskyi.Lab2","l":"Computer"},{"p":"CI306.Zarytskyi.Lab2","l":"ComputerDriver"},{"p":"CI306.Zarytskyi.Lab2","l":"GraphicsCard"},{"p":"CI306.Zarytskyi.Lab2","l":"Memory"},{"p":"CI306.Zarytskyi.Lab2","l":"Processor"}];updateSearchResults();
